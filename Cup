@@ -1,5 +1,6 @@
 {
-  label = "Cup",
+  label = "Subzero",
+  tooltip = "Created by LightSubZero",
   shapes = {
     { 6,0,5,10,2,6,texture = "iron_block", tint = 0xffcc00 },
     { 6,0,6,10,1,10,texture = "iron_block", tint = 0x663300 },
