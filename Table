@@ -1,0 +1,18 @@
+{
+  label = "Table",
+  tooltip = "Created by LightSubZero",
+  shapes = {
+    { 6,0,6,10,1,10,texture = "iron_block", tint = 0x996633 },
+    { 7,1,7,9,12,9,texture = "iron_block", tint = 0x996633 },
+    { 6,10,6,10,12,10,texture = "iron_block", tint = 0x996633 },
+    { 3,11,3,13,12,13,texture = "iron_block", tint = 0x996633 },
+    { 6,11,15,7,12,16,texture = "iron_block", tint = 0x444444 },
+    { 6,12,7,7,16,9,texture = "iron_block", tint = 0x444444 },
+    { 7,12,6,9,16,7,texture = "iron_block", tint = 0x444444 },
+    { 7,12,9,9,16,10,texture = "iron_block", tint = 0x444444 },
+    { 9,12,7,10,16,9,texture = "iron_block", tint = 0x444444 },
+    { 10,12,8,11,13,9,texture = "iron_block", tint = 0x444444 },
+    { 11,13,8,12,15,9,texture = "iron_block", tint = 0x444444 },
+    { 10,15,8,11,16,9,texture = "iron_block", tint = 0x444444 },
+  }
+}
